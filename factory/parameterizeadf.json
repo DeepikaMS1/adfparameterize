@@ -1,0 +1,9 @@
+{
+	"name": "parameterizeadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4dddf354-596b-4d61-bf3c-2db9e002c247",
+		"tenantId": "86442b7e-0d4c-4c76-82c5-c8603e5c153f"
+	}
+}
